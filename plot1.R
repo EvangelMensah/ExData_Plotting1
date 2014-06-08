@@ -29,7 +29,7 @@ hsedata <- read.csv("subHousing.csv", stringsAsFactors=FALSE )
 
 
 
-## Plot 1
+## Plot 1 
 
 par(mfrow=c(1,1))
 png("plot1.png", width = 480, height = 480)
